@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Luiz Amorim</h1>
 
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizamorim2&show_icons=true&theme=radical&bg_color=90,141321,2b2154&hide=prs)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-neto-36a935244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-neto-36a935244/" height="30" width="40" /></a>
-<a href="https://discord.gg/365178845126590475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="365178845126590475" height="30" width="40" /></a>
+<a href="https://discord.com/users/365178845126590475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="365178845126590475" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
