@@ -1,9 +1,15 @@
 <h1 align="center">Luiz Amorim</h1>
 
-<h3 align="center">Software Engineer | Node.js | TypeScript | AWS</h3>
+<p align="center">
+  Software Engineer
+</p>
 
 <p align="center">
-4+ years building scalable backend systems, integrations and cloud solutions.
+  Node.js • TypeScript • Python • AWS • System Design
+</p>
+
+<p align="center">
+  Building scalable systems, automations and cloud-native solutions.
 </p>
 
 <p align="center">
@@ -12,14 +18,12 @@
   </a>
 </p>
 
-## 🚀 Tech Stack
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,python,aws,postgres,mysql,mongodb,docker,git,github" />
 </p>
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizamorim2&show_icons=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=luizamorim2&theme=tokyonight&hide_border=true" />
 </p>
